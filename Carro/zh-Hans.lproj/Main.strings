@@ -1,0 +1,18 @@
+
+/* Class = "UILabel"; text = "国家"; ObjectID = "Cbz-4p-iyh"; */
+"Cbz-4p-iyh.text" = "国家";
+
+/* Class = "UIButton"; configuration.title = "选择国家区号"; ObjectID = "G3J-bh-b0Y"; */
+"G3J-bh-b0Y.configuration.title" = "选择国家区号";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "G3J-bh-b0Y"; */
+"G3J-bh-b0Y.normalTitle" = "Button";
+
+/* Class = "UIViewController"; title = "Carro"; ObjectID = "J0G-K6-gFw"; */
+"J0G-K6-gFw.title" = "Carro";
+
+/* Class = "UILabel"; text = "地区"; ObjectID = "Z2c-d2-EeJ"; */
+"Z2c-d2-EeJ.text" = "地区";
+
+/* Class = "UINavigationItem"; title = "Carro"; ObjectID = "b2G-UW-Pbh"; */
+"b2G-UW-Pbh.title" = "Carro";

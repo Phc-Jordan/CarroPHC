@@ -1,0 +1,32 @@
+PODS:
+  - Alamofire (4.7.3)
+  - ObjectMapper (4.2.0)
+  - RealReachability (1.4.1):
+    - RealReachability/Connection (= 1.4.1)
+    - RealReachability/Ping (= 1.4.1)
+  - RealReachability/Connection (1.4.1)
+  - RealReachability/Ping (1.4.1)
+  - SwiftyJSON (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7.3)
+  - ObjectMapper
+  - RealReachability
+  - SwiftyJSON
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - ObjectMapper
+    - RealReachability
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  ObjectMapper: 1eb41f610210777375fa806bf161dc39fb832b81
+  RealReachability: 828e74e3a1e89ba8f54395344637689cf4065c36
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+
+PODFILE CHECKSUM: 6bf072685b88490eef8bd8ed328aa1271c7dfa90
+
+COCOAPODS: 1.11.2
